@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.deps.json
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.dll
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.pdb
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.dll
+D:\VisualStudio2017 Projects\DefineClasses\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.pdb

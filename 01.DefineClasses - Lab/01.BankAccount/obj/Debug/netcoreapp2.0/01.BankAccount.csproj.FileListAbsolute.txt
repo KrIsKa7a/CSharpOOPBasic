@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.deps.json
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.dll
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.pdb
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.dll
+D:\VisualStudio2017 Projects\DefineClasses\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.pdb

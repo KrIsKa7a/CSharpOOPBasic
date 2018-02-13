@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.deps.json
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.pdb
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+D:\VisualStudio2017 Projects\DefineClasses\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.pdb

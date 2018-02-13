@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.deps.json
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.dll
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.pdb
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.dll
+D:\VisualStudio2017 Projects\DefineClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.pdb
