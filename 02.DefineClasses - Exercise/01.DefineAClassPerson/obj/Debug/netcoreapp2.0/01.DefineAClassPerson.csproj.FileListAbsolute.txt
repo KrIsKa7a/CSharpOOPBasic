@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp2.0\01.DefineAClassPerson.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp2.0\01.DefineAClassPerson.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp2.0\01.DefineAClassPerson.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp2.0\01.DefineAClassPerson.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\bin\Debug\netcoreapp2.0\01.DefineAClassPerson.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\01.DefineAClassPerson\obj\Debug\netcoreapp2.0\01.DefineAClassPerson.pdb

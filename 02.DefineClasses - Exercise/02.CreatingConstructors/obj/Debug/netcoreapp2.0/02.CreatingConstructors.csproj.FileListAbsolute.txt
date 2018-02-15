@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\bin\Debug\netcoreapp2.0\02.CreatingConstructors.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\02.CreatingConstructors\obj\Debug\netcoreapp2.0\02.CreatingConstructors.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\bin\Debug\netcoreapp2.0\14.CatLady.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\14.CatLady\obj\Debug\netcoreapp2.0\14.CatLady.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.pdb

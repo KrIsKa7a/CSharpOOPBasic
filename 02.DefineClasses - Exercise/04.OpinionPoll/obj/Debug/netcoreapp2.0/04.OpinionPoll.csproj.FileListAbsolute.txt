@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp2.0\04.OpinionPoll.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.pdb

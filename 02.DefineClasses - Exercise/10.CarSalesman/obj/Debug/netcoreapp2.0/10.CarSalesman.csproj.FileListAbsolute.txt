@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\bin\Debug\netcoreapp2.0\10.CarSalesman.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\10.CarSalesman\obj\Debug\netcoreapp2.0\10.CarSalesman.pdb

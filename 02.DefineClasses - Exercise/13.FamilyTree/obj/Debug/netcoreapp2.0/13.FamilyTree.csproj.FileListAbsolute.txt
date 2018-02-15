@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\bin\Debug\netcoreapp2.0\11.PokemonTrainer.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\11.PokemonTrainer\obj\Debug\netcoreapp2.0\11.PokemonTrainer.pdb

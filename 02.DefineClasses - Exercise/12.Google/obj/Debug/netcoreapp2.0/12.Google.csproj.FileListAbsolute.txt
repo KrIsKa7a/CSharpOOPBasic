@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\bin\Debug\netcoreapp2.0\12.Google.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\12.Google\obj\Debug\netcoreapp2.0\12.Google.pdb

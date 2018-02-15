@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.deps.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\bin\Debug\netcoreapp2.0\08.RawData.pdb
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.dll
+D:\VisualStudio2017 Projects\DefineClasses-Exercise\08.RawData\obj\Debug\netcoreapp2.0\08.RawData.pdb
