@@ -1,0 +1,10 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

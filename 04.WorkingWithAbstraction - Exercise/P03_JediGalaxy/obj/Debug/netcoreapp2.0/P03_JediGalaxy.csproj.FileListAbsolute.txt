@@ -1,0 +1,10 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

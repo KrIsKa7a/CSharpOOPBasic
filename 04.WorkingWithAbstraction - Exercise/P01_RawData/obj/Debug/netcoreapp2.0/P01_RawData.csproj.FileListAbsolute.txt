@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

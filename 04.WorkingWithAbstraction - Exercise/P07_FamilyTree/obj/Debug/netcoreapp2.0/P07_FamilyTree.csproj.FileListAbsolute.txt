@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\04.WorkingWithAbstraction - Exercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb
