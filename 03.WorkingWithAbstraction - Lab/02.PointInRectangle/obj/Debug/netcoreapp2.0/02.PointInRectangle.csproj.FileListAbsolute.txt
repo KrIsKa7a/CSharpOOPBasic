@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb

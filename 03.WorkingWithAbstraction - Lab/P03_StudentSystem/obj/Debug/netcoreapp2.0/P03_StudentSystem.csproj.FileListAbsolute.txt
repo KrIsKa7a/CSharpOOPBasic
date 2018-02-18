@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

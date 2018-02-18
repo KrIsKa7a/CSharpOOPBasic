@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.deps.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.pdb
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+D:\VisualStudio2017 Projects\WorkingWithAbstraction-Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.pdb
