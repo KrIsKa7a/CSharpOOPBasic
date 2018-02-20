@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.deps.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.runtimeconfig.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.pdb
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\01.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\01.SortPersonsByNameAndAge.pdb

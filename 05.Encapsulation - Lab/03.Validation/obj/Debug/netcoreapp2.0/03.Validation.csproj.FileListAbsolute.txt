@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp2.0\03.Validation.deps.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp2.0\03.Validation.runtimeconfig.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp2.0\03.Validation.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp2.0\03.Validation.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\bin\Debug\netcoreapp2.0\03.Validation.pdb
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp2.0\03.Validation.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp2.0\03.Validation.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp2.0\03.Validation.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp2.0\03.Validation.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\03.Validation\obj\Debug\netcoreapp2.0\03.Validation.pdb

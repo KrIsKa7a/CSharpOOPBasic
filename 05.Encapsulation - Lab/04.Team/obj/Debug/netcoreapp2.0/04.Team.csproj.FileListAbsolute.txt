@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp2.0\04.Team.deps.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp2.0\04.Team.runtimeconfig.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp2.0\04.Team.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp2.0\04.Team.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp2.0\04.Team.pdb
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.dll
+D:\VisualStudio2017 Projects\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp2.0\04.Team.pdb
