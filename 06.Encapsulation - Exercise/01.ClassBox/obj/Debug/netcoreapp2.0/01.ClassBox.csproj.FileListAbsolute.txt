@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache

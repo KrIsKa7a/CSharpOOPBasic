@@ -1,0 +1,10 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\bin\Debug\netcoreapp2.0\05.PizzaCalories.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\05.PizzaCalories\obj\Debug\netcoreapp2.0\05.PizzaCalories.pdb

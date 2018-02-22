@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.pdb

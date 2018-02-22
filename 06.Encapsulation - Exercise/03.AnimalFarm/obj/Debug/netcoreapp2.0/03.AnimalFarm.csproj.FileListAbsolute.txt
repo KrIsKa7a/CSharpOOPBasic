@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp2.0\03.AnimalFarm.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csprojResolveAssemblyReference.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp2.0\03.AnimalFarm.pdb

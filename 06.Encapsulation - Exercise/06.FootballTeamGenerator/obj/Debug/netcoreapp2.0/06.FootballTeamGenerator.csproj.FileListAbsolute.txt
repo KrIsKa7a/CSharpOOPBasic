@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csprojResolveAssemblyReference.cache

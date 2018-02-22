@@ -1,0 +1,11 @@
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.deps.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.runtimeconfig.dev.json
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\bin\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.AssemblyInfo.cs
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.dll
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.pdb
+D:\Homeworks\C#FundamentlasJan2018\C#OOPBasic\06.Encapsulation - Exercise\02.ClassBoxDataValidation\obj\Debug\netcoreapp2.0\02.ClassBoxDataValidation.csprojResolveAssemblyReference.cache
