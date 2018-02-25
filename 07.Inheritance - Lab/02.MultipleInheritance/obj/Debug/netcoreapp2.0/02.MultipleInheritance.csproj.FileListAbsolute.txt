@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.deps.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\netcoreapp2.0\02.MultipleInheritance.pdb
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.dll
+D:\VisualStudio2017 Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\netcoreapp2.0\02.MultipleInheritance.pdb

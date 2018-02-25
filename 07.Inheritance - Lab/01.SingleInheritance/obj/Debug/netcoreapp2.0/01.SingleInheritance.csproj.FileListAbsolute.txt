@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.deps.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.dll
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.pdb
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.dll
+D:\VisualStudio2017 Projects\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.pdb
