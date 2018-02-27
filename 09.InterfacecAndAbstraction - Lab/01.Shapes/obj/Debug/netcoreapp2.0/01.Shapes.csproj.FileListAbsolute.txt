@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.deps.json
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.dll
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.pdb
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.dll
+D:\VisualStudio2017 Projects\InterfacecAndAbstraction-Lab\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.pdb
