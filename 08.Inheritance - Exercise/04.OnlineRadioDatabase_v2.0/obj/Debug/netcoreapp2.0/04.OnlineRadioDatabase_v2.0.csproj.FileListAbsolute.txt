@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.deps.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.runtimeconfig.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.pdb
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\04.OnlineRadioDatabase_v2.0\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase_v2.0.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb
+D:\VisualStudio2017 Projects\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache

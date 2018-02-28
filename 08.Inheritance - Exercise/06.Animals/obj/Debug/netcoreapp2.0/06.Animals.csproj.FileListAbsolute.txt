@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.deps.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.pdb
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.dll
+D:\VisualStudio2017 Projects\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.pdb
