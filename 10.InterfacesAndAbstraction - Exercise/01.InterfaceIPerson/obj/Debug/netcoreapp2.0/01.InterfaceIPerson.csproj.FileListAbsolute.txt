@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\bin\Debug\netcoreapp2.0\01.InterfaceIPerson.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\bin\Debug\netcoreapp2.0\01.InterfaceIPerson.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\bin\Debug\netcoreapp2.0\01.InterfaceIPerson.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\bin\Debug\netcoreapp2.0\01.InterfaceIPerson.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\bin\Debug\netcoreapp2.0\01.InterfaceIPerson.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\01.InterfaceIPerson\obj\Debug\netcoreapp2.0\01.InterfaceIPerson.pdb

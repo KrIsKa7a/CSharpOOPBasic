@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\bin\Debug\netcoreapp2.0\08.MilitaryElit.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\bin\Debug\netcoreapp2.0\08.MilitaryElit.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\bin\Debug\netcoreapp2.0\08.MilitaryElit.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\bin\Debug\netcoreapp2.0\08.MilitaryElit.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\bin\Debug\netcoreapp2.0\08.MilitaryElit.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\08.MilitaryElit\obj\Debug\netcoreapp2.0\08.MilitaryElit.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

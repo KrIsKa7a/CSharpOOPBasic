@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csprojResolveAssemblyReference.cache

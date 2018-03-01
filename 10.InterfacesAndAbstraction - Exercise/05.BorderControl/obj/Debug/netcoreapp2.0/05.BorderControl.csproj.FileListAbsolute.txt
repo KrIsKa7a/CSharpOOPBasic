@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.deps.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.dll
+D:\VisualStudio2017 Projects\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp2.0\02.MultipleImplementation.pdb
