@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.deps.json
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.json
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.dev.json
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.pdb
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfo.cs
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\Home\source\repos\Polymorphism-Lab\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.pdb
