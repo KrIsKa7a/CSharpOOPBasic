@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-public class UltrasoftTyre : Tyres
+public class UltrasoftTyre : Tyre
 {
     private double grip;
 
     protected UltrasoftTyre(double hardness) 
-        : base("Ultrasoft", hardness)
+        : base(hardness)
     {
 
     }
@@ -25,10 +25,12 @@ public class UltrasoftTyre : Tyres
         {
             if (value < 30)
             {
-                throw new ArgumentException();
+                throw new ArgumentException("Blown Tyre");
             }
 
             base.Degradation = value;
         }
     }
+
+    public override string Name => "Ultrasoft";
 }

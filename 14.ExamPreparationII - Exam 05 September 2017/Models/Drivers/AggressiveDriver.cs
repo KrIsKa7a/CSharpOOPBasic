@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-public class AggressiveDriver : Drivers
+public class AggressiveDriver : Driver
 {
-    protected AggressiveDriver(string name, double totalTime, Cars car) 
-        : base(name, totalTime, car, 2.7)
+    public AggressiveDriver(string name, Car car) 
+        : base(name, car/*, 2.7*/)
     {
         this.Speed += this.Speed * 1.3;
+        this.FuelConsumptionPerKm = 2.7;
     }
 }

@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-public class EnduranceDriver : Drivers
+public class EnduranceDriver : Driver
 {
-    protected EnduranceDriver(string name, double totalTime, Cars car) 
-        : base(name, totalTime, car, 1.5)
+    public EnduranceDriver(string name, Car car) 
+        : base(name, car/*, 1.5*/)
     {
+        this.FuelConsumptionPerKm = 1.5;
     }
 }
